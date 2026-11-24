@@ -151,4 +151,4 @@ analytics, and product improvement.
 
 ## License
 
-Facebook & Instagram for Magento is platform licensed.
+Facebook & Instagram for Magento is Apache 2.0 licensed, as found in the [LICENSE](LICENSE) file.
